@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">TrabajoV3</string>
+    <string name="user">user</string>
+    <string name="password">password</string>
+    <string name="incorect">User or password  \n incorrect. try again.</string>
+    <string name="generoTexto">Genero</string>
+    <string name="Teto">Teto</string>
+    <string name="M4">M4</string>
+    <string name="Wiu">Wiu</string>
+    <string name="brinca">Brinca de mais</string>
+    <string name="Zedd">Zedd</string>
+    <string name="ScareTo">Scare to be lonley</string>
+    <string name="Marsmellow">Marsmellow</string>
+    <string name="Spotlight">Spotlight</string>
+    <string name="DonPa">Don Patricio</string>
+    <string name="Porrito">Parrito en Paris</string>
+    <string name="BadBuny">Bad Bunny</string>
+    <string name="Yonosoy">Yo no soy celoso</string>
+    <string name="cientovente">120</string>
+
+    <!-- Cacniones en array-->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="genero">
+        <item>Trap</item>
+        <item>Electronic</item>
+        <item>Urban</item>
+    </string-array>
+
+    <string-array name="TrapGenre">
+        <item>---</item>
+        <item>Teto</item>
+        <item>Wiu</item>
+
+
+    </string-array>
+
+    <string-array name="ElectronicGenre">
+        <item>---</item>
+        <item>Zed</item>
+        <item>Marshmellow</item>
+    </string-array>
+
+    <string-array name="urbanGenre">
+        <item>---</item>
+        <item>Don Patricio</item>
+        <item>Bad Bunny</item>
+    </string-array>
+
+    <string-array name="Teto">
+        <item>---</item>
+        <item>M4</item>
+    </string-array>
+
+    <string-array name="Wiu">
+        <item>---</item>
+        <item>Brinca Demais</item>
+
+    </string-array>
+
+    <string-array name="Zed">
+        <item>---</item>
+        <item>Scare to be lonle</item>
+    </string-array>
+
+    <string-array name="Marsmellow">
+        <item>---</item>
+        <item>Spotlight</item>
+    </string-array>
+
+    <string-array name="DonPatricio">
+        <item>---</item>
+        <item>Porrito en paris</item>
+    </string-array>
+
+    <string-array name="BadBunny">
+        <item>---</item>
+        <item>Yo no soy celoso</item>
+        <item>120</item>
+    </string-array>
+
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
