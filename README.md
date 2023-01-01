@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-This is my project for a mobile music player. It is made with Android Studio specifically using Java in the programming section of the app.
+This is my project for a mobile phone music player. It is made with Android Studio specifically using Java in the programming section of the app.
 
 ## AUTOR -
 ** Vicktor Nascimento Rodrigues **
