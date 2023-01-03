@@ -12,7 +12,7 @@ This is my project for a mobile phone music player. It is made with Android Stud
 *[Portfolio](https://vicktorwork.000webhostapp.com)
 *[Gmail](vicktornascimento@gmail.com)
 
-## Previo
+## Preview
 
 https://www.youtube.com/watch?v=Zhm63YmdWfY
 
